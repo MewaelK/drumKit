@@ -1,7 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://www.portoalegre.travel/upload/b/12/126172_drum-wallpaper.jpg)
-    bottom center;
+  background-image: url('drum.jpg');
   background-size: cover;
 }
 
